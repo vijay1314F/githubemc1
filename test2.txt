@@ -1,1 +1,2 @@
 name=int(input("vijay"))
+print(name)
